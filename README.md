@@ -17,11 +17,14 @@
 ![Screenshot 2025-01-13 141759](https://github.com/user-attachments/assets/1e4edb73-d5c0-4174-8000-3bfd994b2479)<br>
 
 ## Displaying Tables
-
-![Screenshot 2025-01-13 145247](https://github.com/user-attachments/assets/6ee36184-faf8-47a5-81b9-bb9f2e8af203)
-![Screenshot 2025-01-13 145234](https://github.com/user-attachments/assets/7eeb0274-4f15-40b6-aa56-37934e5ac280)
-![Screenshot 2025-01-13 145318](https://github.com/user-attachments/assets/b33ac1b8-63fb-41aa-b596-3040bd225287)
-![Screenshot 2025-01-13 145302](https://github.com/user-attachments/assets/a8423d77-38f2-4773-9829-61226c6282ee)
+1. **Customers Table**<br>
+![Screenshot 2025-01-13 145247](https://github.com/user-attachments/assets/6ee36184-faf8-47a5-81b9-bb9f2e8af203)<br>
+2. **Loans Table**<br>
+![Screenshot 2025-01-13 145234](https://github.com/user-attachments/assets/7eeb0274-4f15-40b6-aa56-37934e5ac280)<br>
+3. **Transactions Table**<br>
+![Screenshot 2025-01-13 145318](https://github.com/user-attachments/assets/b33ac1b8-63fb-41aa-b596-3040bd225287)<br>
+4. **Bank Branches**<br>
+![Screenshot 2025-01-13 145302](https://github.com/user-attachments/assets/a8423d77-38f2-4773-9829-61226c6282ee)<br>
 
 ## Complex Queries Outputs
 
