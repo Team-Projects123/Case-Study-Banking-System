@@ -37,7 +37,7 @@ Amount DECIMAL(15, 2),
 Payment_Type ENUM('EMI', 'Prepayment'),
 FOREIGN KEY (Loan_ID) REFERENCES Loans(Loan_ID)
 );
-
+ ![Screenshot 2025-01-13 022752](https://github.com/user-attachments/assets/df92b033-e43d-42e4-a104-f1dbaefc2706)
 INSERT INTO Customers (Name, Address, Phone, Email)
 VALUES
 ('John Doe', '123 Main St', '9876543210', 'john.doe@example.com'),
@@ -60,3 +60,4 @@ VALUES
 (3, '2023-07-01', 4500, 'EMI'),
 (3, '2023-08-01', 4500, 'EMI'),
 (1, '2023-04-01', 20000, 'Prepayment');
+ ![Screenshot 2025-01-13 023230](https://github.com/user-attachments/assets/d8f4f09f-fcb5-4bd5-8a97-4848f98ea589)
