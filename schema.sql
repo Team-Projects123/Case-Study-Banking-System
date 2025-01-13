@@ -1,7 +1,8 @@
 -- Create the Banking System database
 CREATE DATABASE BankingSystem;
 
--- Use the database <br>USE BankingSystem;
+-- Use the database 
+USE BankingSystem;
 CREATE TABLE Customers (
 Customer_ID INT AUTO_INCREMENT PRIMARY KEY,
 Name VARCHAR(100) NOT NULL,
@@ -36,6 +37,7 @@ Amount DECIMAL(15, 2),
 Payment_Type ENUM('EMI', 'Prepayment'),
 FOREIGN KEY (Loan_ID) REFERENCES Loans(Loan_ID)
 );
+
 INSERT INTO Customers (Name, Address, Phone, Email)
 VALUES
 ('John Doe', '123 Main St', '9876543210', 'john.doe@example.com'),
