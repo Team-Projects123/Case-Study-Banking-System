@@ -38,7 +38,7 @@ Payment_Type ENUM('EMI', 'Prepayment'),
 FOREIGN KEY (Loan_ID) REFERENCES Loans(Loan_ID)
 );
 
-// There output images are in readme file.
+
  
 INSERT INTO Customers (Name, Address, Phone, Email)
 VALUES
@@ -62,4 +62,6 @@ VALUES
 (3, '2023-07-01', 4500, 'EMI'),
 (3, '2023-08-01', 4500, 'EMI'),
 (1, '2023-04-01', 20000, 'Prepayment');
-// There output images are in readme file.
+
+
+-- Note:- All the output images for these will be provided.
